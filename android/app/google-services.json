@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "69761602621",
+    "project_id": "yeshtry-9fcbb",
+    "storage_bucket": "yeshtry-9fcbb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:69761602621:android:723b51b488e8011661c654",
+        "android_client_info": {
+          "package_name": "com.onatcipli.YESHTRY"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "69761602621-8gqoultnv1hrn6sc2ir1dsress1bomlm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.onatcipli.YESHTRY",
+            "certificate_hash": "b5e45fe783d2f434f585430168fc978bbe98ef3c"
+          }
+        },
+        {
+          "client_id": "69761602621-udrm96bddqae2kb6c3jbpicg2hcd6r1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN_KevYVZ96hIiX-gzgnFdzFsbItF54QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "69761602621-udrm96bddqae2kb6c3jbpicg2hcd6r1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
